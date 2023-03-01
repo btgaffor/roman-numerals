@@ -1,0 +1,14 @@
+{
+  "name": "roman-numerals",
+  "version": "1.0.0",
+  "description": "turns arabic numbers into roman numerals",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "author": "Brandon Gafford",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.3"
+  }
+}
